@@ -1,2 +1,1 @@
-<?php
-echo 'teste';
+<iframe style="border: 0; width: 350px; height: 350px;" src="http://bandcamp.com/EmbeddedPlayer/album=3123296626/size=large/bgcol=333333/linkcol=e99708/minimal=true/transparent=true/" seamless><a href="http://music.sufjan.com/album/silver-gold">Silver &amp; Gold by Sufjan Stevens</a></iframe>
